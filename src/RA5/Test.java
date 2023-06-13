@@ -8,10 +8,7 @@ public class Test {
     private static Scanner scanner = new Scanner(System.in);
     private static List<CuentaPersonal> cuentaPersonals = null;
     public static void main(String[] args) {
-
             mostrarMenu();
-
-
     }
 
     private static void hacerCopiaSeguridad() {
@@ -59,7 +56,11 @@ public class Test {
            System.out.println("1. Leer Fichero");
            System.out.println("2. Escribir Fichero");
            System.out.println("3. Hacer copia de seguridad");
-
+           System.out.println("Introduce opción\n");
+           String sOpcion = scanner.nextLine();
+           if (!sOpcion.matches("[0-3]"))
+               continue;
+           opcion = Integer.parseInt(sOpcion);
            switch (opcion){
                 case 0:
                     System.out.println("Fin de programa");
@@ -76,8 +77,8 @@ public class Test {
                     break;
                 default:
                     break;
-        }
-        } while (opcion < 0 || opcion > 3) ;
+             }
+        } while (true) ;
 
     }
 }

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7c9f7b0-2f65-4ada-8910-b7d38478e43f" name="Changes" comment="RA5">
+    <list default="true" id="f7c9f7b0-2f65-4ada-8910-b7d38478e43f" name="Changes" comment="RA5 continuación">
+      <change afterPath="$PROJECT_DIR$/FILES/cuentas_15_14_48__13_6_2023.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FILES/cuentas_15_42_56__12_6_2023_COPIA.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RA5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RA5/Test.java" afterDir="false" />
     </list>
@@ -34,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/manuel/curso_22_23/recuperacion/FILES",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/manuel/curso_22_23/recuperacion/FILES&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FILES" />
@@ -74,12 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1686578245664</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="RA5 continuación">
+      <created>1686581148791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686581148791</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Clases de recuperacion" />
     <MESSAGE value="RA5" />
-    <option name="LAST_COMMIT_MESSAGE" value="RA5" />
+    <MESSAGE value="RA5 continuación" />
+    <option name="LAST_COMMIT_MESSAGE" value="RA5 continuación" />
   </component>
 </project>
